@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Ubuntu&family=Unbounded:wght@500&display=swap');
+
+html,
+body {
+	margin: auto;
+	padding: 0;
+	font-family: "Righteous", cursive;
+	
+}
+
+.title {
+	width: width;
+	margin: 0;
+	text-align: center;
+	font-size: 100px;
+}
+
+.highlight {
+	
+	background: linear-gradient(to right, #6D7CFF 0%, #FF52FC 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.uberschrift {
+	font-size: 100px;
+}
+
+
+h1 {
+	margin: 40px 0px 0 50px;
+	font-size: 40px;
+}
+
+h2 {
+	margin: 20px 0px 0 50px;
+	background: linear-gradient(to right, #6D7CFF 0%, #FF52FC 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-size: 30px;
+}
+
+p {
+	margin: 10px 800px 0px 45px;
+	padding: 5px 0 5px 5px;
+	font-size: 25px;
+}
+
+a {
+	color: #6D7CFF;
+	margin: 10px 0 0 50px;
+	font-size: 20px;
+}
+
+.link {
+	margin: 10px 0 0 10px;
+	padding: 0;
+}
+
+img {
+	margin: 20px;
+}
+
+#rcorners1 {
+  border-radius: 0 0 25px 25px;
+  background: linear-gradient(to right, #6D7CFF , #FF52FC);
+  padding: 20px; 
+  width: 1000;
+  height: 120px;
+	margin: 0;
+}
+
+footer {
+	color: #6D7CFF;
+  background-color: black;
+  text-align: center;
+  padding: 10px;
+	font-size: 20px
+}
+
+footer > table {
+	margin: 0 auto;
+}
+
+footer .copyright {
+	margin-top: -20px
+}
